@@ -1,7 +1,7 @@
 " Vim filetype plugin file
 " Language:    Pentadactyl configuration file
 " Maintainer:  Doug Kearns <dougkearns@gmail.com>
-" Version:     hg6884
+" Version:     1.2pre
 
 if exists("b:did_ftplugin")
   finish
